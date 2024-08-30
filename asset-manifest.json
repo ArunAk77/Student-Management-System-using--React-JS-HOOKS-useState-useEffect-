@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Management-System-using--React-JS-HOOKS-useState-useEffect-/static/css/main.44354c5b.css",
+    "main.js": "/Student-Management-System-using--React-JS-HOOKS-useState-useEffect-/static/js/main.9cee9e60.js",
+    "index.html": "/Student-Management-System-using--React-JS-HOOKS-useState-useEffect-/index.html",
+    "main.44354c5b.css.map": "/Student-Management-System-using--React-JS-HOOKS-useState-useEffect-/static/css/main.44354c5b.css.map",
+    "main.9cee9e60.js.map": "/Student-Management-System-using--React-JS-HOOKS-useState-useEffect-/static/js/main.9cee9e60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44354c5b.css",
+    "static/js/main.9cee9e60.js"
+  ]
+}
